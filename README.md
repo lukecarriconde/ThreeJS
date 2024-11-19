@@ -1,2 +1,2 @@
-# ThreeJS
+# JSBasicLearning
 ThreeJS Learning Projetcs
